@@ -7,5 +7,6 @@ public class test {
 		// test1
 		// test3
 		sysout("ÇÏÀÌ·ç");
+		// test4
 	}
 }
