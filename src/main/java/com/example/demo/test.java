@@ -6,5 +6,6 @@ public class test {
 		// TODO Auto-generated method stub
 		// test1
 		// test3
+		sysout("ÇÏÀÌ·ח");
 	}
 }
